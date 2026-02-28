@@ -1,0 +1,13 @@
+String = "hola soy un texto"
+Byte = b "soy un byte"
+
+numero_entero = 7
+numero_float = 4.5
+
+Nulo = None
+Booleano = true o false
+Rango = range(7)
+
+Lista = [1,2,3,4]
+Tupla = ("hablemos", "de", "python")
+Diccionario = {}
