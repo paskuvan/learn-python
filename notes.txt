@@ -11,3 +11,7 @@ Rango = range(7)
 Lista = [1,2,3,4]
 Tupla = ("hablemos", "de", "python")
 Diccionario = {}
+
+str (variable_str)
+
+int (variable_int)
