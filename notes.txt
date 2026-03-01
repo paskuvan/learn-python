@@ -15,3 +15,47 @@ Diccionario = {}
 str (variable_str)
 
 int (variable_int)
+
+
+Operadores
+
+1- aritméticos o matemáticos
+
+Operador    Operación     Ejemplo
++           Suma          P+q = 10
+-           Resta         P-q = 2
+*           Multiplica    P*q = 24
+/           División      P/q = 1.5
+%           Resto de /    P%q = 2
+**          Potenciar     P**q = 1296
+
+2- de asignación
+
+variable = 2
+variable += 4
+
+3- de comparación
+
+Operador    Operación       Ejemplo
+==          Igualación      10==10
+!=          Distinción      10!=5
+>           Mayor           10>5
+<           Menor           10<30
+<=          Menor o igual   10<=100
+>=          Mayor o igual   10>=2
+
+4- lógicos
+
+Operador    Operación                                                   Ejemplo
+and         resulta true cuando ambos statements son true               10==10 and 10!=5
+or          resulta true cuando alguno operador es true                 10==10 or 10==5
+not         negación, resulta true cuando la negación es verdadera      10==10 and not 10==5
+
+5 - binarios
+
+&
+|
+XOR
+Ones
+<<
+>>
